@@ -10,7 +10,7 @@
 
 	<groupId>com.tguzik</groupId>
 	<artifactId>typedvalues</artifactId>
-	<version>0.3-SNAPSHOT</version>
+	<version>0.3</version>
 	<packaging>jar</packaging>
 	<description>This small library aims to make it easier to create values with distinctive type in Java.</description>
 	<url>https://github.com/tguzik/typedvalues</url>
